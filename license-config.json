@@ -9,7 +9,8 @@
     ".github",
     "CONTRIBUTING",
     "build",
-    "dist"
+    "dist",
+    "/**"
   ],
   "license": "license-header.txt",
   "licenseFormats": {
